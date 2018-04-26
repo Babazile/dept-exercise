@@ -15,7 +15,7 @@
     mocha.setup('bdd');
     var assert = chai.assert;
   </script>
-  <script src="grandTotal.js" charset="utf-8"></script>
+  <script src="dept.js" charset="utf-8"></script>
   <script src="test/grandTotal.test.js" charset="utf-8"></script>
   <script>
     mocha.checkLeaks();
